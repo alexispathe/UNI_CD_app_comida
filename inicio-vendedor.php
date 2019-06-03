@@ -22,7 +22,7 @@
 		
 			<div class="comp-titulo-comida comp-titulo"><?= $publicacion['titulo']?></div>
 			
-			<div class="comp-imagen-comida"><img src="">Imagen</div>
+			<div class="comp-imagen-comida"><img src="imagenes/menus/imagen-3.png">Imagen</div>
 			<div class="comp-descripcion-comida">
 				<h3><?=$publicacion['categoria']?></h3>
 				<?=$publicacion['descripcion']?></div>
